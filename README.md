@@ -11,8 +11,8 @@
 ## Install
 
 ```fish
+$ cd $OMF_PATH/themes/
 $ git clone https://github.com/jnuyanfa/cyan-kolo.git
-$ omf u cyan-kolo/
 $ omf theme cyan-kolo
 ```
 
