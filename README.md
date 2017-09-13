@@ -1,8 +1,23 @@
 # cyan-kolo
+<div align="center">
+  <a href="http://github.com/oh-my-fish/oh-my-fish">
+    <img width=90px  src="https://cloud.githubusercontent.com/assets/8317250/8510172/f006f0a4-230f-11e5-98b6-5c2e3c87088f.png">
+  </a>
+</div>
+<br>
 
-> A theme for [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish).
+> cyan-kolo theme for [Oh My Fish][omf-link]. Based on cyan in Oh-My-Fish and kolo in Oh-My-Zsh.
 
-This theme is inspired by cyan and kolo(zsh theme).
+## Install
+
+```fish
+$ git clone https://github.com/jnuyanfa/cyan-kolo.git
+$ omf u cyan-kolo/
+$ omf theme cyan-kolo
+```
 
 ## Screenshot
-![image](https://github.com/jnuyanfa/github_pic_repo/blob/master/cyan_kolo/20170912204121.png)
+<p align="center">
+<img
+src="https://github.com/jnuyanfa/github_pic_repo/blob/master/cyan_kolo/20170912204121.png">
+</p
