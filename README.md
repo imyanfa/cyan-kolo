@@ -6,7 +6,7 @@
 </div>
 <br>
 
-> A theme for [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish). Based on cyan in Oh-My-Fish and kolo in Oh-My-Zsh.
+> A theme for [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish). Based on **cyan** in Oh-My-Fish and **kolo** in Oh-My-Zsh.
 
 ## Install
 
