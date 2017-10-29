@@ -10,6 +10,13 @@
 
 function fish_greeting -d "what's up, fish?"
     if math "$LINES >= 20 && $COLUMNS >= 80" > /dev/null
-        bash (dirname (status -f))/archey.sh
+        switch (uname)
+            case Linux
+                python3 (dirname (status -f))/archey_linux.py
+            case Darwin
+                bash (dirname (status -f))/archey_mac.sh
+            case '*'
+                echo Hello
+        end
     end
 end
