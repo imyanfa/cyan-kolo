@@ -8,8 +8,10 @@
 
 > A theme for [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish). Based on **cyan** in Oh-My-Fish and **kolo** in Oh-My-Zsh.
 
-## Install
+## Dependencies
+ - Pthon3.5+ if host is Linux
 
+## Install
 ```fish
 $ cd $OMF_PATH/themes/
 $ git clone https://github.com/jnuyanfa/cyan-kolo.git
